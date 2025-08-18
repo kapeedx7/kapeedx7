@@ -4,19 +4,20 @@
 
 ## 🚀 About Me
 - 🌩️ Cloud & DevOps Engineer in the making  
-- ☁️ Experienced with **AWS, Azure, Docker, Kubernetes (EKS), Terraform, CI/CD**  
+- ☁️ Experienced with **AWS, Azure, Docker, ECS, Kubernetes (EKS), Terraform, CI/CD**  
 - 👨‍💻 Passionate about building scalable cloud-native applications  
-- 📚 Currently preparing for **AWS DevOps Engineer – Professional**  
+- 📚 Currently Building Projects & Exploring Multi-Cloud ****  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Cloud:** AWS | Azure | GCP (basic)  
-- **Containerization:** Docker | Kubernetes | EKS  
+- **Containerization:** Docker | Kubernetes | ECS | EKS
 - **IaC:** Terraform | AWS CloudFormation  
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI  
 - **Monitoring:** Prometheus | Grafana | CloudWatch  
-- **Languages:** Python | Bash | Java (Spring Boot)  
+- **Languages:** Python | Bash | Java (Spring Boot,Maven)
+- **Databases:** SQL | RDS | DynamoDB | Redis(Cluster & Memecached) | Aurora 
 
 ---
 
