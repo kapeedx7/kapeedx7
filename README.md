@@ -17,7 +17,9 @@
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI  
 - **Monitoring:** Prometheus | Grafana | CloudWatch  
 - **Languages:** Python | Bash | Java (Spring Boot,Maven)
-- **Databases:** SQL | RDS | DynamoDB | Redis(Cluster & Memecached) | Aurora 
+- **Databases:** SQL | RDS | DynamoDB | Redis(Cluster & Memecached) | Aurora
+- **Disaster Recovery:** DR Drills | Fail-Over Testing | Active-Active Setup | Active-Passive Setup
+- **Other Skills:** SLA Monitoring | Incident Management | POC Design & Development
 
 ---
 
