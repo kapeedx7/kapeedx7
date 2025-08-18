@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m Deepak Sharma (kapeedx7)
+# 👋 Hi, I’m Deepak Sharma
 
 ## 🚀 About Me
 - 🌩️ Cloud & DevOps Engineer in the making  
