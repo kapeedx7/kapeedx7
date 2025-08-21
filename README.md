@@ -26,10 +26,11 @@
 ## 📌 Current Projects
 - 🔹 **[Traffic Management System (Maven)](https://github.com/kapeedx7/Traffic-Management-Using-Maven)** (Currently Working) 
    Spring Boot application demonstrating Traffic Management-Maven project management.  
-- 🔹 **Cloud/DevOps Mini Projects**  
+- 🔹 **Cloud/DevOps Projects**  
    - Dockerized apps  
    - Kubernetes deployments  
-   - Terraform IaC templates  
+   - Terraform IaC templates
+   - CICD Deployments 
 
 ---
 
