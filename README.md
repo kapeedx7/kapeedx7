@@ -24,8 +24,8 @@
 ---
 
 ## 📌 Current Projects
-- 🔹 **[Traffic Management System (Maven)](https://github.com/kapeedx7/Traffic-Management-Using-Maven)** (Currently Working) 
-   Spring Boot application demonstrating Traffic Management-Maven project management.  
+- 🔹 **[Personal Portfolio/Website)](https://github.com/kapeedx7/portfolio-website)** (Currently Working) 
+   Personal Website/Portfolio hosting using GitHub CICD Deployments, Build onto AWS S3, Portfolio accessible through S3 website endpoint.  
 - 🔹 **Cloud/DevOps Projects**  
    - Dockerized apps  
    - Kubernetes deployments  
