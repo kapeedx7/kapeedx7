@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapeedx7&show_icons=true&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kapeedx7&theme=react-dark)
+![GitHub Contribution Heatmap](https://ghchart.rshah.org/kapeedx7)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapeedx7&layout=compact&theme=tokyonight)
