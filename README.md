@@ -24,9 +24,13 @@
 ---
 
 ## 📌 Current Projects
+- 🔹**Freelancing**
+- 🌍 Currently delivering freelance projects for clients in **Cloud Infrastructure, AWS Solutions, and DevOps automation**.
+
 - 🔹 **[(Personal Portfolio/Website)](https://github.com/kapeedx7/portfolio-website)** (Currently Working) 
    Personal Website/Portfolio hosting using GitHub CICD Deployments, Build onto AWS S3, Portfolio accessible through S3 website endpoint.
-  Step 2 : Integrating Route53 using personal domain.   
+  Step 2 : Integrating Route53 using personal domain.
+  
 - 🔹 **Cloud/DevOps Projects**  
    - Dockerized apps  
    - Kubernetes deployments  
