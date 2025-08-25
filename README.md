@@ -20,6 +20,7 @@
 - **Databases:** SQL | RDS | DynamoDB | Redis(Cluster & Memecached) | Aurora
 - **Disaster Recovery:** DR Drills | Fail-Over Testing | Active-Active Setup | Active-Passive Setup
 - **Other Skills:** SLA Monitoring | Incident Management | POC Design & Development
+  
 
 ---
 
