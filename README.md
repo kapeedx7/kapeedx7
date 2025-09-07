@@ -29,7 +29,7 @@
 - 🔹**Freelancing**
   🌍 Currently delivering freelance projects for clients in **Cloud Infrastructure, AWS Solutions, and DevOps automation**.
 
-- 🔹 **[(Adaptive-ai-Query Management Systems)](https://github.com/Trainings-TechEazy/adaptive-ai-qms)** (Currently Working) 
+- 🔹 **[(Adaptive-AI-Query Management Systems)](https://github.com/Trainings-TechEazy/adaptive-ai-qms)** (Currently Working) 
    An interactive quiz that will determine the level of difficulty for the next questions based on the answers given.   
    Domain-wise Adaptive Management in Real Time.
   **Monolithic App Refactoring to MicroServices Integration** 
