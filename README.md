@@ -29,9 +29,10 @@
 - 🔹**Freelancing**
   🌍 Currently delivering freelance projects for clients in **Cloud Infrastructure, AWS Solutions, and DevOps automation**.
 
-- 🔹 **[(Personal Portfolio/Website)](https://github.com/kapeedx7/portfolio-website)** (Currently Working) 
-   Personal Website/Portfolio hosting using GitHub CICD Deployments, Build onto AWS S3, Portfolio accessible through S3 website endpoint.
-  Step 2 : Integrating Route53 using personal domain.
+- 🔹 **[(Adaptive-ai-Query Management Systems)](https://github.com/Trainings-TechEazy/adaptive-ai-qms)** (Currently Working) 
+   An interactive quiz that will determine the level of difficulty for the next questions based on the answers given.   
+   Domain-wise Adaptive Management in Real Time.
+  **Monolithic App Refactoring to MicroServices Integration** 
   
   
 - 🔹 **Cloud/DevOps Projects**  
