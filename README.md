@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS | Azure | GCP (basic)  
+- **Cloud:** AWS | Azure | GCP (basic) | Oracle  
 - **Containerization:** Docker | Kubernetes | ECS | EKS
 - **IaC:** Terraform | AWS CloudFormation  
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI  
