@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🌩️ Cloud & DevOps Engineer. 
 - ☁️ Experienced with **AWS, Azure, Docker, ECS, Kubernetes (EKS), Terraform, CI/CD**  
-- 👨‍💻 Passionate about building scalable cloud-native applications  
+- 👨‍💻 Passionate about building scalable cloud-native applications.
 - 📚 Currently Building Projects & Exploring Multi-Cloud *** 
 
 ---
