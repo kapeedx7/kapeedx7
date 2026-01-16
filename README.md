@@ -55,18 +55,6 @@
   <img src="https://ghchart.rshah.org/ffa500/kapeedx7" alt="Deepak's GitHub Heatmap" />
 </p>
 
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kapeedx7&show_icons=true&theme=dark&title_color=ffa500&icon_color=ffa500&text_color=ffffff&bg_color=000000" height="160" />
-  
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapeedx7&theme=dark&ring=ffa500&fire=ffa500&currStreakLabel=ffa500&background=000000&dates=ffffff" height="160" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapeedx7&layout=compact&theme=dark&title_color=ffa500&text_color=ffffff&bg_color=000000" height="160" />
-</p>
 
 
 ---
