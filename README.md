@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Deepak Sharma
 
 ## 🚀 About Me
-- 🌩️ Cloud & DevOps Engineer. 
+- 🌩️ AWS Cloud Engineer. 
 - ☁️ Experienced with **AWS, Azure, Docker, ECS, Kubernetes (EKS), Terraform, CI/CD**  
 - 👨‍💻 Passionate about building scalable cloud-native applications.
 - 📚 Currently Building Projects & Exploring Multi-Cloud *** 
@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS | Azure | GCP (basic) | Oracle  
+- **Cloud:** AWS | Azure | GCP | Oracle  
 - **Containerization:** Docker | Kubernetes | ECS | EKS
 - **IaC:** Terraform | AWS CloudFormation  
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI  
