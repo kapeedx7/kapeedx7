@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-# 👋 Hi, I’m Deepak Sharma
+# 👋 Hi, I’m Deepak Sharma.
 
 ## 🚀 About Me
 - 🌩️ AWS Cloud Engineer. 
